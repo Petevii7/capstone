@@ -1,11 +1,8 @@
 # capstone
-Here are two penetration tests I've preformed during my bootcamp coursework for Flatiron School (cybersecurity enginerring).
+I conducted two penetration tests as part of my cybersecurity engineering bootcamp coursework at Flatiron School. 
+The first assessment involved analyzing Uber's cybersecurity posture, where we were granted the opportunity to perform open-source intelligence (OSINT) and examine their security measures.
 
-The first document shows a pen test for Uber.
-Uber was nice enough to let our cohort OSINT/examine their companies cybersecurity positioning.
-
-The second .pdf is for a pen test preformed on the 'Metasploitable3' machine.
-We had 4 hours to exploit and CTFs
-Metaspoitable3 has a few known vulnerabilites and I gained alot of knowledge during this process.
-We preformed Caputure the Flag (CTF) to see how many flags we could obtain. 
-In 4 hours I gained a shell and out of the 13 flags (playing cards) I captured 5.
+The second test focused on the 'Metasploitable3' machine, a lab environment with known vulnerabilities. 
+In this challenge, I had a limited timeframe of 4 hours to exploit the system and engage in Capture the Flag (CTF) activities. 
+Throughout this exercise, I enhanced my cybersecurity knowledge and skills. 
+I successfully gained access to the system and managed to capture 5 out of the 13 flags (represented as playing cards) within the allotted time
